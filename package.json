@@ -48,16 +48,16 @@
     "muaz-khan"
   ],
   "dependencies": {
-    "canvas-designer": "latest",
-    "detectrtc": "latest",
-    "fbr": "latest",
-    "getstats": "latest",
-    "multistreamsmixer": "latest",
-    "recordrtc": "latest",
-    "rtcmulticonnection-server": "latest",
-    "socket.io": "latest",
-    "webrtc-adapter": "latest",
-    "webrtc-screen-capturing": "latest"
+    "canvas-designer": "^1.3.0",
+    "detectrtc": "^1.3.9",
+    "fbr": "^2.0.8",
+    "getstats": "^1.2.0",
+    "multistreamsmixer": "^1.0.8",
+    "recordrtc": "^5.5.4",
+    "rtcmulticonnection-server": "^1.3.1",
+    "socket.io": "^2.2.0",
+    "webrtc-adapter": "^7.2.1",
+    "webrtc-screen-capturing": "^1.0.1"
   },
   "analyze": false,
   "license": "MIT",
